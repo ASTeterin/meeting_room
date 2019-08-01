@@ -7,5 +7,4 @@
 
     $client = getClient(SERVER, USERNAME, PASSWORD);
     createEventInCalendar($client);
- 
     echo "hello";
